@@ -108,6 +108,11 @@ background-color: #f4f4fd;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
+}
+
+.team-item {
+background-color: #fff;
 }
 
 .team-title {
@@ -134,6 +139,7 @@ background-color: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .portfolio-title {
